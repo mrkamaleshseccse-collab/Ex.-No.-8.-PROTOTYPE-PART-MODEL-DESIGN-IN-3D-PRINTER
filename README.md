@@ -45,6 +45,9 @@
 ###   6.	Close the doors of the 3d printer.
 ###   7.	Open the file from the USB storage and select the Print option.
 
+
+
+
 ## Output:
 <img width="1816" height="866" alt="image" src="https://github.com/user-attachments/assets/79e2cbf0-a8c0-4fac-b3fa-16bc74d664a8" />
 
