@@ -46,7 +46,7 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
-<img width="1902" height="907" alt="image" src="https://github.com/user-attachments/assets/957b2dc9-1ae7-4a3d-aa2d-35507d20f391" />
+<img width="1816" height="866" alt="image" src="https://github.com/user-attachments/assets/79e2cbf0-a8c0-4fac-b3fa-16bc74d664a8" />
 
 ### Name:kamaleshkumar k
 ### Register Number:212225040164
